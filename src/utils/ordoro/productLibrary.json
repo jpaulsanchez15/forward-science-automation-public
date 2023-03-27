@@ -1,0 +1,10 @@
+{
+    "TEST-PRODUCT-ONE":{
+       "dimensions":{
+          "length":9.5,
+          "width":8,
+          "height":5.5,
+          "lb":48
+       }
+      }
+ }
